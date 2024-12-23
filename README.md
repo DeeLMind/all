@@ -1,1 +1,1 @@
-# https://all.deelmind.com/
+# 随缘【自然而然】https://all.deelmind.com/
