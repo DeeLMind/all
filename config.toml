@@ -1,0 +1,29 @@
+baseURL = "https://all.deelmind.com/"
+languageCode = "en-us"
+title = "【随缘】自然而然"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+Params.favicon = "./assets/me.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "作者：DeeLMind"
+  homepage = "https://deelmind.com/"
+
+
+[params]
+mainSections = ["posts"]
+headTitle = "【随缘】自然而然"
+[[params.socials]]
+name = "DeeLMind"
+link = "https://deelmind.com/"
+mainSections = ["posts"]
